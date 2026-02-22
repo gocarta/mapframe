@@ -1,5 +1,5 @@
-# map
-> super simple map with a pin
+# mapframe
+> embeddable map
 
 ## example
 https://gocarta.github.io/mapframe/?latitude=35.060017&longitude=-85.132838
